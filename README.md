@@ -4,7 +4,7 @@ I'm a self-taught passionate FrontEnd developer.
 
 **About me**
 
-- 💼 FrontEnd Engineer at GE Digital
+- 💼 Senior Staff Software Engineer (UI) at [GE Digital](https://www.ge.com/digital/)
 
 - ❤️ I love working with cutting edge technologies, and building scalable solutions
 
